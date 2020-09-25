@@ -15,3 +15,5 @@ i am from non master branch 2
 merge 1
 
 auto merge 1
+
+manual merge 2
