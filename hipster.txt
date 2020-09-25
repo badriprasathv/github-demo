@@ -9,3 +9,7 @@ i have stagged
 i have modified
 
 i am from non master branch
+
+i am from non master branch 2
+
+merge 1
