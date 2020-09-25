@@ -1,3 +1,5 @@
 hi im inside level 1
 
 i am from non fastforward commit 2
+
+auto merge 2
