@@ -13,3 +13,5 @@ i am from non master branch
 i am from non master branch 2
 
 merge 1
+
+auto merge 1
